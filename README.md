@@ -1,1 +1,1 @@
-# cypress
+# Sample cypress project
